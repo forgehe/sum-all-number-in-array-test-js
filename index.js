@@ -1,6 +1,5 @@
 // eslint-disable-next-line func-style
 function sumItems(array) {
-  let sum = 0;
   // const sumArray = function(array) {
   //   for (let i = 0; i < array.length; i++) {
   //     let isArraySum = 0;
